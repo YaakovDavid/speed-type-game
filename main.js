@@ -13,9 +13,14 @@ const levels = {
 // const medium = document.querySelector('#medium')
 // const hard = document.querySelector('#hard')
 
+// const levels = [`${easy.value}`, `${medium}`, `${hard}`]
+
+
+
 // easy = 5;
 // medium = 3;
 // hard = 2;
+
 
 // Change level
 const currentLevel = levels.easy;
